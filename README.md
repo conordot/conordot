@@ -1,6 +1,6 @@
 Hi I'm Conor.
 
-Senior DevOps Engineer at Slalom Build.
+Architect (Platform Engineering) at Slalom Build.
 
 Melbourne, Australia 🇦🇺
 
